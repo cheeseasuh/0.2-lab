@@ -10,7 +10,7 @@ public class Unit0Exercises {
         char grade = 'A';
         System.out.println(grade);
 
-        System.out.println("---Variable Snapshot---");
+        System.out.println(" --- Variable Snapshot --- ");
         System.out.println("Score: " + score);
         System.out.println("Price: " + price);
         System.out.println("Passing: " + isPassing);
@@ -19,7 +19,7 @@ public class Unit0Exercises {
         price = 22.49;
         isPassing = false;
 
-        System.out.println("---After Updates---");
+        System.out.println(" --- After Updates --- ");
         System.out.println("Score: " + score);
         System.out.println("Price: " + price);
         System.out.println("Passing: " + isPassing);
