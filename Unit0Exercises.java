@@ -2,8 +2,8 @@ public class Unit0Exercises {
     public static void main(String[] args) {
         int score = 85;
         double price = 19.99;
+        boolean isPassing = true;
 
-        // boolean isPassing = true;
         // final double TAX_RATE = 0.0925;
         // char grade = 'A';
         // System.out.println(grade);
